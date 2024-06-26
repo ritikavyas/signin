@@ -1,0 +1,59 @@
+body {
+    background-color: pink;
+    background-image: url(images/0F666187-3E66-43B5-91B0-A8A89EED9E08_4_5005_c.jpeg);
+    background-repeat: no-repeat;
+    image-orientation: from-image;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 20px;
+    padding: 0 20px;
+    padding-top: 10px;
+
+}
+
+.container {
+    background-color: white;
+    width: 700px;
+    height: 450px;
+    margin: 150px auto 0;
+}
+
+.centre {
+    border: black;
+}
+
+#name {
+    width: 500px;
+    height: 40px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#password {
+    width: 500px;
+    height: 40px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.text {
+    color: palevioletred;
+    font-weight: bolder;
+    text-align: right;
+    margin-right: 60px;
+}
+
+.button {
+    background-color: palevioletred;
+    width: 150px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    margin: auto;
+    border-radius: 20px;
+    transition-duration: 0.4s;
+}
